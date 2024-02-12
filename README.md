@@ -18,6 +18,8 @@ I'm Mehr Bagga, and I'm on an exciting journey towards earning my B.Eng. in Comp
 
 I'm not your typical computer engineer; I'm a lifelong learner with a strong curiosity! I'm passionate about mentorship and always eager to expand my knowledge. Feel free to connect with me at baggag@mcmaster.ca, and let's dive into the world of technology together!
 
+Check out the website I made : https://motivemates.com/
+
 Here's a glimpse of what makes me unique:
 
 💡 As a skilled computer engineer, I don't just write code; I'm a creative problem-solver who thrives on crafting innovative software solutions that touch every corner of our digital realm – from building full-stack marvels to diving into the world of IoT and AI.
@@ -33,5 +35,3 @@ Here's a glimpse of what makes me unique:
 🌐 Plus, I'm multilingual– fluent in English, Punjabi, American Sign Language, Hindi, and Urdu. I'm a bridge between cultures and a valuable asset to global teams.
 
 Let's connect, chat tech, share experiences, and explore opportunities. Together, we can navigate the digital landscape effectively! 😄
-
-Check out the website I made : https://motivemates.com/
