@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Mehr Bagga, and I'm on an exciting journey towards earning my B.Eng. in Computer Engineering CO-OP from McMaster University in 2025.
+I'm Mehr Bagga, and I'm on an exciting journey towards earning my B.Eng. in Computer Engineering CO-OP from McMaster University in 2027.
 
 I'm not your typical computer engineer; I'm a lifelong learner with a strong curiosity! I'm passionate about mentorship and always eager to expand my knowledge. Feel free to connect with me at baggag@mcmaster.ca, and let's dive into the world of technology together!
 
